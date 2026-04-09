@@ -16,7 +16,7 @@ This project implements an 8-bit signed Booth Multiplier using Radix-4 Booth enc
 ---
 
 ## Architecture
-
+![Architecture](Multiplier.png)
 
 
 ### Description
