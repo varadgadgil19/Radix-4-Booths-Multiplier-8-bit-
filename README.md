@@ -46,7 +46,7 @@ As we increase the number of bits and keep the ACC same,  we can save the hardwa
 | 32   | 9      | 
 | 32   | 17     | 
 
-If we include can include more number of ACC i.e. in proportion of bits/4, then we can achieve less cycles for operation but hardware can bloat up but still its negotiable than wallace tree
+If we can include more number of ACC i.e. in proportion of bits/4, then we can achieve less cycles for operation but hardware can bloat up but still its negotiable than wallace tree.
 
 | Bits | Cycles | ACC |
 |------|--------|-----|
