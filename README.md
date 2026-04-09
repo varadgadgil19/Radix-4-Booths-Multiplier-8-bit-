@@ -13,6 +13,7 @@ This project implements an 8-bit signed Booth Multiplier using Radix-4 Booth enc
 - Reduced area compared to Wallace tree implementations  
 - Start/Done handshake for controlled operation  
 
+![Algo](Radix-4-algo.pdf)
 ---
 
 ## Architecture
