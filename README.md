@@ -65,6 +65,7 @@ If we can include more number of ACC i.e. in proportion of bits/4, then we can a
 
 ---
 ![Output](Wave_mul.png)
+![Output](output.png)
 
 ## Insight
 This design demonstrates how combining parallelism with resource reuse can significantly improve efficiency while maintaining reasonable hardware complexity.
