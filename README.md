@@ -1,4 +1,4 @@
-# Optimized Booth Multiplier (8-bit, CLA-Based)
+# Radix-4 Booth Multiplier (8-bit, CLA-Based)
 
 ## Overview
 This project implements an 8-bit signed Booth Multiplier using Radix-4 Booth encoding and Carry Lookahead Adders (CLA). The design follows a multi-cycle approach with a dual-accumulator architecture to achieve a balanced trade-off between performance, hardware utilization, and power consumption.
